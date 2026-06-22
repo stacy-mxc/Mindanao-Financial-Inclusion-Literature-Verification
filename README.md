@@ -3,7 +3,7 @@
 
 #### Topic: Financial Inclusion Among Rural Communities in Mindanao
 
-#### AI-Generated Summary Audit
+#### 1. AI-Generated Summary Audit
 
 I prompted an AI discovery tool to summarize recent literature on financial inclusion among rural communities in Mindanao. Below is the verification tracking matrix.
 
@@ -14,6 +14,6 @@ I prompted an AI discovery tool to summarize recent literature on financial incl
 | "Limited internet connectivity remains a barrier to digital financial inclusion in remote areas of Mindanao." | Department of Information and Communications Technology (DICT) Reports | ✅ Verified | Verified. Studies consistently identify poor connectivity and gaps in digital infrastructure as obstacles to financial inclusion. |
 | "Financial inclusion alone can eliminate poverty in rural Mindanao." | World Bank and BSP Publications | ❌ Hallucination | Literature indicates that financial inclusion contributes to poverty reduction, but is not sufficient on its own. Other factors such as education, employment, and infrastructure also influence poverty outcomes. |
 
-#### Critical Reflection on Tool Limitations
+#### 2. Critical Reflection on Tool Limitations
 
 The AI tool/platform successfully synthesizes the recent literature on financial inclusion among rural communities in Mindanao. However, it could not independently verify the numerical data or the actual context of the literature presented in the audit.
